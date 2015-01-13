@@ -1,9 +1,9 @@
 === CubePoints Authorize.net Module ===
 Contributors: conveysproject
-Donate link:  http://www.conveysprojects.com/plugins/
+Donate link:  http://conveysinformation.com/
 Tags: CubePoints, Authorize.net, CubePoints Authorize.net , Payment, User Points
 Requires at least: 2.8
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
